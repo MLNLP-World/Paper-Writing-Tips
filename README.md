@@ -535,14 +535,16 @@ Section~\ref{} concludes this paper.
 
 感谢以下同学对本项目进行组织与指导
 
-<a href="https://github.com/Erutan-pku">  <img src="pics/profile/Erutan-pku.png"  width="80" /></a> 
-<a href="https://github.com/cooelf">  <img src="pics/profile/Zhousheng Zhang.png"  width="80" /></a> 
-<a href="https://github.com/SivilTaram">  <img src="pics/profile/Qian.png"  width="80" /></a> 
-<a href="https://github.com/liucongg">  <img src="pics/profile/logCong.png"  width="80" /></a> 
-<a href="https://github.com/yhshu">  <img src="pics/profile/yiheng.png"  width="80" /></a> 
-<a href="https://github.com/LooperXX">  <img src="pics/profile/Xiao Xu.png"  width="80" /></a> 
+<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a>
+
+<a href="https://github.com/Erutan-pku">  <img src="pics/profile/Erutan-pku.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
+<a href="https://github.com/cooelf">  <img src="pics/profile/Zhousheng Zhang.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
+<a href="https://github.com/SivilTaram">  <img src="pics/profile/Qian.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
+<a href="https://github.com/liucongg">  <img src="pics/profile/logCong.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
+<a href="https://github.com/yhshu">  <img src="pics/profile/yiheng.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
+<a href="https://github.com/LooperXX">  <img src="pics/profile/Xiao Xu.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
 <a href="https://github.com/kokolerk">  <img src="pics/profile/jiaqi.png"  width="80" />  <div align="center"> Jiaqi Wang </div> </a> 
-<a href="https://github.com/yizhen20133868">  <img src="pics/profile/Libo Qin.png"  width="80" /></a> 
+<a href="https://github.com/yizhen20133868">  <img src="pics/profile/Libo Qin.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
 
 ## <img src="./pics/icon/heart.png" width="25" />贡献者列表
 
