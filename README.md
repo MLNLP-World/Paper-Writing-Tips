@@ -363,7 +363,7 @@ Section~\ref{} concludes this paper.
 
 ![41.jpg](pics/41.jpg)
 
-### 篇章整体
+### 段落布局
 #### 42. 一行字数未超过1/4时，建议删除或者增加字数。（Attention）
 
 ![pic_42](pics/pic_42.png)
