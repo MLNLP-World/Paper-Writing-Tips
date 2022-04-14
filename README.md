@@ -2,12 +2,13 @@
 <p align="center">
 <h1 align="center"> <img src="./pics/icon/ai.png" width="30" /> Paper Writing Tips</h1>
 </p>
-[项目说明](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#项目说明),
-[写前必看](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#写前必看), 
-[终稿必查](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#终稿必查——投稿前一周，一天),
-[大佬们的写作建议](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#大佬们的写作建议), 
-[组织者列表](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#组织者列表), 
-[贡献者列表](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#贡献者列表)
+
+[项目说明](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#项目说明),
+[写前必看](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#写前必看), 
+[终稿必查](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#终稿必查——投稿前一周，一天),
+[大佬们的写作建议](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#大佬们的写作建议), 
+[组织者列表](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#组织者列表), 
+[贡献者列表](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#贡献者列表)
 
 ## <img src="./pics/icon/motivation.png" width="25" />项目动机
 
