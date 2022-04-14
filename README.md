@@ -2,11 +2,10 @@
 <p align="center">
 <h1 align="center"> <img src="./pics/icon/ai.png" width="30" /> Paper Writing Tips</h1>
 </p>
-
-[项目动机](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#项目动机),
+[项目说明](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#项目说明),
 [写前必看](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#写前必看), 
-[终稿必查](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#终稿必查),
-[大家之言](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#大家之言), 
+[终稿必查](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#终稿必查——投稿前一周，一天),
+[大佬们的写作建议](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#大佬们的写作建议), 
 [组织者列表](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#组织者列表), 
 [贡献者列表](https://github.com/Erutan-pku/Paper_Writing_Tips/blob/main/README.md#贡献者列表)
 
@@ -18,7 +17,7 @@
 >
 >1. **写前必看**：包含一些常见的错误，每个错误均配有例子，可以在动手写论文之前快速浏览。
 >2. **终稿必查**：包含一些例子，方便快速定位是否自己的论文有错误。
->3. **大家之言**：整理了一些笔者了解到的网络上公开的优质写作资源（并不完全，欢迎补充），方便大家系统学习。
+>3. **大家之言**：整理了一些网络上公开的写作资源（并不完全，欢迎补充），方便大家系统学习。
 
 
 
@@ -364,7 +363,9 @@ Section~\ref{} concludes this paper.
 ![41.jpg](pics/41.jpg)
 
 ### 篇章整体
-#### 42. 内容一般包含6个部分，分别abstract、introduction、related work、method、experiment和conclusion；但可根据具体论文进行调整。
+#### 42. 一行字数未超过1/4时，建议删除或者增加字数。（Attention）
+
+![pic_42](pics/pic_42.png)
 
 ### 参考文献
 
@@ -386,8 +387,7 @@ Section~\ref{} concludes this paper.
 
 ![pic_45](pics/pic_45.png)
 
-
-## <img src="./pics/icon/resource.png" width="25" />终稿必查
+## <img src="./pics/icon/resource.png" width="25" />终稿必查——投稿前一周，一天
 
 ### 关于科技英语写习惯
 
@@ -452,8 +452,6 @@ Section~\ref{} concludes this paper.
 * 可以参考工具 [SimBiber](https://github.com/MLNLP-World/SimBiber)
 
 #### 22.  bib管理注意保持会议/期刊名称全称和缩写一致性，检查年份、卷号、页码等，不要完全依赖 scholar 提供的信息（可能存在缺失或格式混乱）。
-
-* 可以参考工具 [Rebiber](https://github.com/yuchenlin/rebiber)
 
 #### 23.  章节、表格、图片使用\label定义后，可通过\ref自动引用跳转。
 
