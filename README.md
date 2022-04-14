@@ -44,13 +44,13 @@ Paper Writing Tips目前是一个正在进行的中项目，如有疏漏在所�
 
 ![pics_1](pics/1.png)
 
-#### 2. 推荐：有结构的值使用 \boldsymbol
+#### 2. 推荐：有结构的值使用 \boldsymbol（Attention）
 
 * 要点: 有结构的值有句子、树、图等
 
 ![pics_2](pics/2.png)
 
-#### 3. 推荐：\boldsymbol 的集合可用 \mathcal
+#### 3. 推荐：\boldsymbol 的集合可用 \mathcal （Attention）
 
 ![pics_3](pics/3.png)
 
@@ -60,7 +60,7 @@ Paper Writing Tips目前是一个正在进行的中项目，如有疏漏在所�
 
 ![pics_4](pics/4.png)
 
-#### 5. 推荐：数域、期望等使用\mathbff
+#### 5. 推荐：数域、期望等使用\mathbff （Attention）
 
 ![pics_5](pics/5.png)
 
@@ -238,7 +238,7 @@ Section~\ref{} concludes this paper.
 - 说明（Caption）是用来写“这个表格是什么”的。
 - 正文是用来写“这个表格说明了什么”的。
 
-#### 22. “三线表”建议：尽量不要画竖线
+#### 22. “三线表”建议：尽量不要画竖线（Attention）
 
 ![22.jpg](pics/22.jpg)
 
