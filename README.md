@@ -541,7 +541,7 @@ Section~\ref{} concludes this paper.
 <a href="https://github.com/liucongg">  <img src="pics/profile/logCong.png"  width="80" /></a> 
 <a href="https://github.com/yhshu">  <img src="pics/profile/yiheng.png"  width="80" /></a> 
 <a href="https://github.com/LooperXX">  <img src="pics/profile/Xiao Xu.png"  width="80" /></a> 
-<a href="https://github.com/kokolerk">  <img src="pics/profile/jiaqi.png"  width="80" /></a> 
+<a href="https://github.com/kokolerk">  <img src="pics/profile/jiaqi.png"  width="80" /> Jiaqi Wang</a> 
 <a href="https://github.com/yizhen20133868">  <img src="pics/profile/Libo Qin.png"  width="80" /></a> 
 
 ## <img src="./pics/icon/heart.png" width="25" />贡献者列表
