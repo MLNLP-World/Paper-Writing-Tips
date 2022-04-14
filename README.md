@@ -535,9 +535,7 @@ Section~\ref{} concludes this paper.
 
 感谢以下同学对本项目进行组织与指导
 
-<a href="https://github.com/MLNLP-World/Top-Conference-WeChat-Group/blob/main/imgs/weixin/yongfei.png"> 上海科技大学 刘永飞  <div align="center"> <img src="./imgs/profile/yongfei.png" alt="image" width="80" /> </div> </a>
-
-<a href="https://github.com/Erutan-pku">  <img src="pics/profile/Erutan-pku.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
+<a href="https://github.com/Erutan-pku"> <div align="center">  <img src="pics/profile/Erutan-pku.png"  width="80" />  </div> Jiaqi Wang </a> 
 <a href="https://github.com/cooelf">  <img src="pics/profile/Zhousheng Zhang.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
 <a href="https://github.com/SivilTaram">  <img src="pics/profile/Qian.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
 <a href="https://github.com/liucongg">  <img src="pics/profile/logCong.png"  width="80" /> <div align="center"> Jiaqi Wang </div> </a> 
