@@ -5,7 +5,7 @@
 
 [项目动机](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#项目动机),
 [写前必看](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#写前必看), 
-[终稿必查](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#终稿必查——投稿前一周，一天),
+[终稿必查](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#%E7%BB%88%E7%A8%BF%E5%BF%85%E6%9F%A5%E6%8A%95%E7%A8%BF%E5%89%8D%E4%B8%80%E5%91%A8%E4%B8%80%E5%A4%A9),
 [百家之言](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#百家之言), 
 [组织者列表](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#组织者列表), 
 [贡献者列表](https://github.com/MLNLP-World/Paper_Writing_Tips/blob/main/README.md#贡献者列表)
