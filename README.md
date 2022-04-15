@@ -508,7 +508,7 @@ Section~\ref{} concludes this paper.
 
 ●   [支付宝研究员王益老师：“学好语文，才能写好代码”（很多观点对写论文同样适用）](https://zhuanlan.zhihu.com/p/157243326)
 
-●   [哈尔滨工业大学刘一佳博士的（NLPCC-2018）报告](http://yjliu.net/cv/res/2018-08-19-nlpcc-sws.compressed.pdf)
+●   [哈尔滨工业大学刘一佳博士的NLPCC-2018报告：论文写作的易读性原则](http://yjliu.net/cv/res/2018-08-19-nlpcc-sws.compressed.pdf)
 
 ●   [上海交通大学张倬胜博士整理的写作建议](https://github.com/cooelf/PaperWritingTips)
 
