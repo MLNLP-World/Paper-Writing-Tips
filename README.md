@@ -488,49 +488,49 @@ Section~\ref{} concludes this paper.
 
 ##  <img src="./pics/icon/catalogue.png" width="25" />百家之言
 
-●   [清华大学刘洋老师（CWMT-2014） 的报告](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+●   [清华大学刘洋老师的CWMT-2014报告：机器翻译学术论⽂文写作⽅方法和技巧](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 
-●   [复旦大学邱锡鹏老师（CCL-2018） 的报告](https://xpqiu.github.io/slides/20181019-PaperWriting.pdf)
+●   [复旦大学邱锡鹏老师的CCL-2018报告：如何端到端地写科研论文？](https://xpqiu.github.io/slides/20181019-PaperWriting.pdf)
 
-●   [刘知远老师《如何写一篇合格的NLP论文》](https://zhuanlan.zhihu.com/p/58752815)
+●   [清华大学刘知远老师：如何写一篇合格的NLP论文 ](https://zhuanlan.zhihu.com/p/58752815)
 
-●   [赵鑫老师《如何以初学者的身份写好一篇国际学术论文》](https://zhuanlan.zhihu.com/p/136005095)
+●   [中国人民大学赵鑫老师：如何以初学者的身份写好一篇国际学术论文](https://zhuanlan.zhihu.com/p/136005095)
 
-●   [车万翔老师《如何做一个精彩的学术报告》](http://www.cips-cl.org/static/CCL2019/downloads/stuPPT/01.pdf)
+●   [哈尔滨工业大学车万翔老师：如何做一个精彩的学术报告](http://www.cips-cl.org/static/CCL2019/downloads/stuPPT/01.pdf)
 
-●   [刘一佳博士（NLPCC-2018）的报告](http://yjliu.net/cv/res/2018-08-19-nlpcc-sws.compressed.pdf)
+●   [香港中文大学（深圳）陈冠英老师整理的写作建议](https://github.com/guanyingc/latex_paper_writing_tips) || [& Rebuttal Template ](https://github.com/guanyingc/cv_rebuttal_template)
 
-●   [香港中文大学（深圳）助理教授 陈冠英 整理的写作建议](https://github.com/guanyingc/latex_paper_writing_tips) + [Rebuttal Template ](https://github.com/guanyingc/cv_rebuttal_template)
+●   [哥伦比亚大学 Henning Schulzrinne 老师：Tips and Resources for Writing Computer Science Papers](http://www.cs.columbia.edu/~hgs/etc/writing.html)
+
+●   [哈佛大学 Whitesides 老师：从写提纲的角度切入讲解如何撰写学术论文](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767)
 
 ●   [MSRA研究员王晋东：用LaTex写论文经验分享 ](https://mp.weixin.qq.com/s/XshMg6Qb8ArLNA75ImQIWQ)
 
-●   [上海交通大学 张倬胜 整理的写作建议](https://github.com/cooelf/PaperWritingTips)
+●   [支付宝研究员王益老师：“学好语文，才能写好代码”（很多观点对写论文同样适用）](https://zhuanlan.zhihu.com/p/157243326)
 
-●   [哥伦比亚大学的Henning Schulzrinne老师的一些学术随笔](http://www.cs.columbia.edu/~hgs/etc/writing.html)（其中也有一个论文写作的collection）
+●   [哈尔滨工业大学刘一佳博士的（NLPCC-2018）报告](http://yjliu.net/cv/res/2018-08-19-nlpcc-sws.compressed.pdf)
 
-●   [哈佛大学的Whitesides老师从写提纲的角度切入讲解如何撰写学术论文](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767)
+●   [上海交通大学张倬胜博士整理的写作建议](https://github.com/cooelf/PaperWritingTips)
 
-●   [如何优雅地（用TeX）写AI论文 by 知乎 石昊悦](https://zhuanlan.zhihu.com/p/103519006)
+●   [TTIC石昊悦博士：如何优雅地（用TeX）写AI论文](https://zhuanlan.zhihu.com/p/103519006)
 
 ●   [夕小瑶的卖萌屋：11 个好用的科研工具推荐！工作效率提升 max！](https://mp.weixin.qq.com/s/YaPYZvd12Xxgz1Y1L9Rzuw)
 
 ●   [夕小瑶的卖萌屋：吐血整理：论文写作中注意这些细节，能显著提升成稿质量](https://mp.weixin.qq.com/s/1ykqoLWjy3WhczAvb_eOoQ)
 
-●   [一份关于公式的建议](http://karlstratos.com/teaching/cs445fall20/short-guide-typesetting.pdf)
+●   [Deepmind Chris Dyer 等老师：关于NLP论文中公式的建议](http://karlstratos.com/teaching/cs445fall20/short-guide-typesetting.pdf)
 
-●   [使用Tikz在Latex中编写注释方程式的示例](https://github.com/synercys/annotated_latex_equations)
-
-●   [LaTeX建议](https://bochang.me/blog/posts/latex/)
+●   [Google Brain的Bo Chang老师的LaTeX Tips](https://bochang.me/blog/posts/latex/)
 
 ●   [如何让摘要吸引人？Nature论文摘要模板值得收藏](https://zhuanlan.zhihu.com/p/158574876)
 
-●   [支付宝研究员王益的建议：“学好语文，才能写好代码”（很多观点对写论文同样适用）](https://zhuanlan.zhihu.com/p/157243326)
+●   [synercys/annotated_latex_equations：Examples of how to create colorful, annotated equations in Latex using Tikz.](https://github.com/synercys/annotated_latex_equations)
 
 ●   [acmi-lab/cmu-10717-the-art-of-the-paper: Official repository for CMU Machine Learning Department&#39;s 10717: &#34;The Art of the Paper&#34;. (github.com)](https://github.com/acmi-lab/cmu-10717-the-art-of-the-paper)
 
-●   [acl-org/aclpubcheck: Tools for checking ACL paper submissions (github.com)](https://github.com/acl-org/aclpubcheck)
+●   [acl-org/aclpubcheck: Tools for checking ACL paper submissions](https://github.com/acl-org/aclpubcheck)
 
-●  [dspinellis/latex-advice: Advice for writing LaTeX documents (github.com)](https://github.com/dspinellis/latex-advice)
+●  [dspinellis/latex-advice: Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)
 
 
 ## <img src="./pics/icon/organizer.png" width="25" />组织者列表
