@@ -494,7 +494,7 @@ Section~\ref{} concludes this paper.
 
 ●   [刘知远老师：如何写一篇合格的NLP论文 ](https://zhuanlan.zhihu.com/p/58752815)
 
-●   [赵鑫《如何以初学者的身份写好一篇国际学术论文》](https://zhuanlan.zhihu.com/p/136005095)
+●   [赵鑫老师《如何以初学者的身份写好一篇国际学术论文》](https://zhuanlan.zhihu.com/p/136005095)
 
 ●   [车万翔老师《如何做一个精彩的学术报告》](http://www.cips-cl.org/static/CCL2019/downloads/stuPPT/01.pdf)
 
