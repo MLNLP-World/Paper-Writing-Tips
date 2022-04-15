@@ -61,7 +61,7 @@ Paper Writing Tips目前是一个正在进行的中项目，如有疏漏在所�
 
 ![pics_4](pics/4.png)
 
-#### 5. 推荐：数域、期望等使用\mathbff （Attention）
+#### 5. 推荐：数域、期望等使用\mathbb （Attention）
 
 ![pics_5](pics/5.png)
 
