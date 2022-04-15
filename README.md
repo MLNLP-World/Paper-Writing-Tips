@@ -492,7 +492,7 @@ Section~\ref{} concludes this paper.
 
 ●   [复旦大学邱锡鹏老师（CCL-2018） 的报告](https://xpqiu.github.io/slides/20181019-PaperWriting.pdf)
 
-●   [刘知远老师：如何写一篇合格的NLP论文 ](https://zhuanlan.zhihu.com/p/58752815)
+●   [刘知远老师《如何写一篇合格的NLP论文》](https://zhuanlan.zhihu.com/p/58752815)
 
 ●   [赵鑫老师《如何以初学者的身份写好一篇国际学术论文》](https://zhuanlan.zhihu.com/p/136005095)
 
