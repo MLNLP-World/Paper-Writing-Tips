@@ -355,7 +355,7 @@ Section~\ref{} concludes this paper.
 
 ![39.jpg](pics/39.jpg)
 
-#### 38. 一句话说一件事。
+#### 38. 一句话说一件事。尽量使用简单句，少使用长的复合句。
 
 ![40.jpg](pics/40.jpg)
 
