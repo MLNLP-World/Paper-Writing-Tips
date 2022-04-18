@@ -1,14 +1,28 @@
-
+<p align="center">
+<h1 align="center"> <img src="./pics/icon/MLNLP.png" width=300 /></h1>
+</p>
 <p align="center">
 <h1 align="center"> <img src="./pics/icon/ai.png" width="30" /> Paper Writing Tips</h1>
 </p>
+<p align="center">
+  	<a href="https://img.shields.io/badge/version-v0.1.0-blue">
+      <img alt="version" src="https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922" />
+    </a>
+   	<a href="https://github.com/MLNLP-World/Paper_Writing_Tips/stargazers">
+       <img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/Paper_Writing_Tips" />
+  	</a>
+  	<a href="https://github.com/MLNLP-World/Paper_Writing_Tips/network/members">
+       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/Paper_Writing_Tips?color=FF8000" />
+  	</a>
+    <a href="https://github.com/MLNLP-World/Paper_Writing_Tips/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/MLNLP-World/Paper_Writing_Tips?color=0088ff"/>
+    </a>
+    <br />
+</p>
 
-[项目动机](#项目动机) /
-[写前必看](#写前必看) /
-[终稿必查](#%E7%BB%88%E7%A8%BF%E5%BF%85%E6%9F%A5%E6%8A%95%E7%A8%BF%E5%89%8D%E4%B8%80%E5%91%A8%E4%B8%80%E5%A4%A9) /
-[百家之言](#百家之言) /
-[组织者列表](#组织者列表) / 
-[贡献者列表](#贡献者列表)
+
+
+[项目动机](#项目动机) /[写前必看](#写前必看) /[终稿必查](#%E7%BB%88%E7%A8%BF%E5%BF%85%E6%9F%A5%E6%8A%95%E7%A8%BF%E5%89%8D%E4%B8%80%E5%91%A8%E4%B8%80%E5%A4%A9) /[百家之言](#百家之言) /[组织者列表](#组织者列表) / [贡献者列表](#贡献者列表)
 
 ## <img src="./pics/icon/motivation.png" width="25" />项目动机
 
@@ -132,54 +146,61 @@ Section~\ref{} concludes this paper.
 
 ![15](pics/15.jpeg)
 
--   如 \left(\right), \left{\right}, \left<\right>, \left|\right|等。
--   括号中的分割通过\middle实现。
--   Latex代码如下：
-      ```Latex
-      \begin{gather}
-         \bold{s} = \left(\sum_{i=0}^{N-1}{\alpha_{i} \bold{h}_i}\right) + \bold{h}_N\\
-         \bold{s} = (\sum_{i=0}^{N-1}{\alpha_{i} \bold{h}_i}) + \bold{h}_N \\
-      \end{gather}
-      
-      \begin{gather}
-         \left\{ x \middle| x\ne\frac{1}{2}\right\} \\ 
-         \{ x | x\ne\frac{1}{2}\}
-      \end{gather}
-      ```
+- 如 \left(\right), \left{\right}, \left<\right>, \left|\right|等。
+
+- 括号中的分割通过\middle实现。
+
+- Latex代码如下：
+
+    ```Latex
+  \begin{gather}
+     \bold{s} = \left(\sum_{i=0}^{N-1}{\alpha_{i} \bold{h}_i}\right) + \bold{h}_N\\
+     \bold{s} = (\sum_{i=0}^{N-1}{\alpha_{i} \bold{h}_i}) + \bold{h}_N \\
+  \end{gather}
+  
+  \begin{gather}
+     \left\{ x \middle| x\ne\frac{1}{2}\right\} \\ 
+     \{ x | x\ne\frac{1}{2}\}
+  \end{gather}
+    ```
 
 #### 16. 使用 align 表示一组公式，等号对齐
 
 ![16](pics/16.jpeg)
 
--   使用 align 表示一组公式，等号对齐。
--   Latex代码如下：
-      ```Latex
-      \begin{gather}
-         E = m c^2 \\
-         C = B \log_2\left(1+\frac{S}{N}\right)
-      \end{gather}
-      
-      \begin{align}
-         E &= m c^2 \\
-         C &= B \log_2\left(1+\frac{S}{N}\right)
-      \end{align}
-      ```
+- 使用 align 表示一组公式，等号对齐。
+
+- Latex代码如下：
+
+    ```Latex
+  \begin{gather}
+     E = m c^2 \\
+     C = B \log_2\left(1+\frac{S}{N}\right)
+  \end{gather}
+  
+  \begin{align}
+     E &= m c^2 \\
+     C &= B \log_2\left(1+\frac{S}{N}\right)
+  \end{align}
+    ```
 
 #### 17. 只对refer的公式中加编号（Attention）
 
 ![17](pics/17.jpeg)
 
--   推荐：只对refer的公式加编号，\nonumber去编号。
--   Latex代码如下：
-      ```Latex
-      \begin{equation}
-         E = m c^2 
-      \end{equation}
-      
-      \begin{equation}
-         E = m c^2 \nonumber
-      \end{equation}
-      ```
+- 推荐：只对refer的公式加编号，\nonumber去编号。
+
+- Latex代码如下：
+
+    ```Latex
+  \begin{equation}
+     E = m c^2 
+  \end{equation}
+  
+  \begin{equation}
+     E = m c^2 \nonumber
+  \end{equation}
+    ```
 
 ### 表格图片
 
@@ -187,45 +208,47 @@ Section~\ref{} concludes this paper.
 
 ![18](pics/18.jpeg)
 
--   绘制表格时，使用 \usepackage{booktabs}，从而借助 \toprule, \bottomrule, \midrule, \cmidrule 命令，画出好看的分隔线。
--   Latex代码如下：
-      ```Latex
-      % Example of a table with booktabs from https://nhigham.com/2019/11/19/better-latex-tables-with-booktabs/.
-      % First version of table.
-      \begin{table}[htbp]
-         \centering
-         \begin{tabular}{|l|c|c|c|c|c|l|}
-            \hline
-            & \multicolumn{3}{c|}{E} & \multicolumn{3}{c|}{F}\\
-            \hline
-                        & $mv$  & Rel.~err & Time    & $mv$  & Rel.~err & Time   \\\hline
-            A    & 11034 & 1.3e-7 & 3.9 & 15846 & 2.7e-11 & 5.6 \\
-            B & 21952 & 1.3e-7 & 6.2 & 31516 & 2.7e-11 & 8.8 \\
-            C & 15883 & 5.2e-8 & 7.1 & 32023 & 1.1e-11 & 1.4 \\
-            D  & 11180 & 8.0e-9 & 4.3 & 17348 & 1.5e-11 & 6.6 \\
-            \hline
-         \end{tabular}
-         \caption{Without booktabs.}
-         \label{tab:without-booktabs}
-      \end{table}
-      
-      % Second version of table, with booktabs.
-      \begin{table}[htbp]
-         \centering
-         \begin{tabular}{lcccccl}\toprule
-            & \multicolumn{3}{c}{E} & \multicolumn{3}{c}{F}
-            \\\cmidrule(lr){2-4}\cmidrule(lr){5-7}
-                     & $mv$  & Rel.~err & Time    & $mv$  & Rel.~err & Time\\\midrule
-            A    & 11034 & 1.3e-7 & 3.9 & 15846 & 2.7e-11 & 5.6 \\
-            B & 21952 & 1.3e-7 & 6.2 & 31516 & 2.7e-11 & 8.8 \\
-            C & 15883 & 5.2e-8 & 7.1 & 32023 & 1.1e-11 & 1.4\\
-            D  & 11180 & 8.0e-9 & 4.3 & 17348 & 1.5e-11 & 6.6 
-            \\\bottomrule
-         \end{tabular}
-         \caption{With booktabs.}
-         \label{tab:with-booktabs}
-      \end{table}
-      ```
+- 绘制表格时，使用 \usepackage{booktabs}，从而借助 \toprule, \bottomrule, \midrule, \cmidrule 命令，画出好看的分隔线。
+
+- Latex代码如下：
+
+    ```Latex
+  % Example of a table with booktabs from https://nhigham.com/2019/11/19/better-latex-tables-with-booktabs/.
+  % First version of table.
+  \begin{table}[htbp]
+     \centering
+     \begin{tabular}{|l|c|c|c|c|c|l|}
+        \hline
+        & \multicolumn{3}{c|}{E} & \multicolumn{3}{c|}{F}\\
+        \hline
+                    & $mv$  & Rel.~err & Time    & $mv$  & Rel.~err & Time   \\\hline
+        A    & 11034 & 1.3e-7 & 3.9 & 15846 & 2.7e-11 & 5.6 \\
+        B & 21952 & 1.3e-7 & 6.2 & 31516 & 2.7e-11 & 8.8 \\
+        C & 15883 & 5.2e-8 & 7.1 & 32023 & 1.1e-11 & 1.4 \\
+        D  & 11180 & 8.0e-9 & 4.3 & 17348 & 1.5e-11 & 6.6 \\
+        \hline
+     \end{tabular}
+     \caption{Without booktabs.}
+     \label{tab:without-booktabs}
+  \end{table}
+  
+  % Second version of table, with booktabs.
+  \begin{table}[htbp]
+     \centering
+     \begin{tabular}{lcccccl}\toprule
+        & \multicolumn{3}{c}{E} & \multicolumn{3}{c}{F}
+        \\\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+                 & $mv$  & Rel.~err & Time    & $mv$  & Rel.~err & Time\\\midrule
+        A    & 11034 & 1.3e-7 & 3.9 & 15846 & 2.7e-11 & 5.6 \\
+        B & 21952 & 1.3e-7 & 6.2 & 31516 & 2.7e-11 & 8.8 \\
+        C & 15883 & 5.2e-8 & 7.1 & 32023 & 1.1e-11 & 1.4\\
+        D  & 11180 & 8.0e-9 & 4.3 & 17348 & 1.5e-11 & 6.6 
+        \\\bottomrule
+     \end{tabular}
+     \caption{With booktabs.}
+     \label{tab:with-booktabs}
+  \end{table}
+    ```
 
 #### 19. 章节、表格、图片的引用
 
@@ -364,6 +387,7 @@ Section~\ref{} concludes this paper.
 ![41.jpg](pics/41.jpg)
 
 ### 段落布局
+
 #### 40. 一行字数未超过1/4时，建议删除或者增加字数。（Attention）
 
 ![pic_42](pics/pic_42.png)
@@ -439,6 +463,7 @@ Section~\ref{} concludes this paper.
 #### 20.  引用标记的选取：
 
 * 引用在文字外（parent），使用 \cite。
+
 * 引用在文字内（within text）
 
   * ACL/NAACL/EMNLP模板使用\citet{...}；
