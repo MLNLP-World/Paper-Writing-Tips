@@ -567,7 +567,9 @@ Section~\ref{} concludes this paper.
 
 ●   [acl-org/aclpubcheck: Tools for checking ACL paper submissions](https://github.com/acl-org/aclpubcheck)
 
-●  [dspinellis/latex-advice: Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)
+●   [dspinellis/latex-advice: Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)
+
+●   [Graham Neubig: How to Read/Write an International Conference Paper](http://www.phontron.com/slides/neubig15paperwriting.pdf)
 
 ●  [Writing Tips for PhD Theses](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf)
 
