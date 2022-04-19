@@ -573,6 +573,8 @@ Section~\ref{} concludes this paper.
 
 ●  [Writing Tips for PhD Theses](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf)
 
+●  [Tips for Preparing and Publishing Research Papers](https://www.karlwhelan.com/Teaching/isne_talk_sep07.pdf)
+
 ## <img src="./pics/icon/organizer.png" width="25" />组织者列表
 
 感谢以下同学对本项目进行组织与指导
