@@ -541,7 +541,11 @@ Section~\ref{} concludes this paper.
 
 ●   [哈佛大学 Whitesides 老师：从写提纲的角度切入讲解如何撰写学术论文](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767)
 
-●   [MSRA研究员王晋东：用LaTex写论文经验分享 ](https://mp.weixin.qq.com/s/XshMg6Qb8ArLNA75ImQIWQ)
+●   [卡耐基梅隆大学 Graham Neubig 老师：How to Read/Write an International Conference Paper](http://www.phontron.com/slides/neubig15paperwriting.pdf) & [Paper style guide](http://phontron.com/paper-guide.php)
+
+●   [MSR研究员Simon Peyton Jones老师：How to Write a Great Research Paper](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
+
+●   [MSRA研究员王晋东：用LaTex写论文经验分享](https://mp.weixin.qq.com/s/XshMg6Qb8ArLNA75ImQIWQ)
 
 ●   [支付宝研究员王益老师：“学好语文，才能写好代码”（很多观点对写论文同样适用）](https://zhuanlan.zhihu.com/p/157243326)
 
@@ -568,8 +572,6 @@ Section~\ref{} concludes this paper.
 ●   [acl-org/aclpubcheck: Tools for checking ACL paper submissions](https://github.com/acl-org/aclpubcheck)
 
 ●   [dspinellis/latex-advice: Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)
-
-●   [Graham Neubig: How to Read/Write an International Conference Paper](http://www.phontron.com/slides/neubig15paperwriting.pdf)
 
 
 ## <img src="./pics/icon/organizer.png" width="25" />组织者列表
