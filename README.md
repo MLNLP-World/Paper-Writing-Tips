@@ -95,8 +95,10 @@ Paper Writing Tips目前是一个正在进行的中项目，如有疏漏在所�
 
 #### 7. 写作风格要正式，避免缩写
 
-* `don't` 拆开写成 `do not`
+* `don't` 拆开写成 `do not`s
 * 所有格 `'s` 尽量转化为 `of`
+
+![pics_7](pics/7.png)
 
 #### 8. 拉丁文惯用语
 
@@ -172,7 +174,7 @@ Section~\ref{} concludes this paper.
      \left\{ x \middle| x\ne\frac{1}{2}\right\} \\ 
      \{ x | x\ne\frac{1}{2}\}
   \end{gather}
-    ```
+  ```
 
 #### 16. 使用 align 表示一组公式，等号对齐
 
@@ -192,7 +194,7 @@ Section~\ref{} concludes this paper.
      E &= m c^2 \\
      C &= B \log_2\left(1+\frac{S}{N}\right)
   \end{align}
-    ```
+  ```
 
 #### 17. 只对refer的公式中加编号（Attention）
 
@@ -210,7 +212,7 @@ Section~\ref{} concludes this paper.
   \begin{equation}
      E = m c^2 \nonumber
   \end{equation}
-    ```
+  ```
 
 ### 表格图片
 
@@ -258,7 +260,7 @@ Section~\ref{} concludes this paper.
      \caption{With booktabs.}
      \label{tab:with-booktabs}
   \end{table}
-    ```
+  ```
 
 #### 19. 章节、表格、图片的引用
 
