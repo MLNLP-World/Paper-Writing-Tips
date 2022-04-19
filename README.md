@@ -1,7 +1,3 @@
-
-<p align="center">
-<h1 align="center"> <img src="./pics/icon/MLNLP.png" width=300 /></h1>
-</p>
 <p align="center">
 <h1 align="center"> <img src="./pics/icon/ai.png" width="30" /> Paper Writing Tips</h1>
 </p>
