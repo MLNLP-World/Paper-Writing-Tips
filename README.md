@@ -217,7 +217,7 @@ Section~\ref{} concludes this paper.
   \end{equation}
   ```
 #### 18. 中文标点符号
-- 注意中文标点符号，： ’ “ （）等看起来跟英文很像，但影响美观，请注意避免。
+- 注意中文标点符号，： ’ “ （）等看起来跟英文很像，但影响美观，请注意避免。使用masked language modeling (MLM), 避免使用masked language modeling （MLM）
 
 #### 19. 引用和其他文字之间的空格
 - 注意引用和其他文字之间有一个空格，例如 BERT (Devlin et al., 2019)，避免使用BERT(Devlin et al., 2019)
