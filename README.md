@@ -69,13 +69,13 @@ Paper Writing Tips目前是一个正在进行的中项目，如有疏漏在所�
 
 ![pics_1](pics/1.png)
 
-#### 2. 推荐：有结构的值使用 \boldsymbol（Attention）
+#### 2. 有结构的值使用 \boldsymbol（Attention）
 
 * 要点: 有结构的值例如句子序列、树、图等 （下图仅展示为句子序列情况）
 
 ![pics_2](pics/2.png)
 
-#### 3. 推荐：\boldsymbol 的集合可用 \mathcal （Attention）
+#### 3. \boldsymbol 的集合可用 \mathcal （Attention）
 
 ![pics_3](pics/3.png)
 
@@ -85,7 +85,7 @@ Paper Writing Tips目前是一个正在进行的中项目，如有疏漏在所�
 
 ![pics_4](pics/4.png)
 
-#### 5. 推荐：数域、期望等使用\mathbb （Attention）
+#### 5. 数域、期望等使用\mathbb
 
 ![pics_5](pics/5.png)
 
@@ -139,7 +139,7 @@ Section~\ref{} concludes this paper.
 
 ![11.png](pics/11.png)
 
-#### 12. 推荐：引号只表示所谓，不表示引用
+#### 12. 引号只表示所谓，不表示引用（Attention）
 
 引用的表述考虑使用斜体 `\textit{}` 而不是引号。
 
