@@ -439,7 +439,7 @@ Section~\ref{} concludes this paper.
 
 #### 1.  可参考拼写检查软件，检查文本是否有语病或不符习惯的表达。
 
-* 例如 [grammarly](https://app.grammarly.com).
+* 例如 [grammarly](https://app.grammarly.com), [writefull](https://www.writefull.com/).
 
 #### 2.  不要使用 didn't can’t don’t isn’t aren’t 之类的缩写形式 任何时候都不要用撇号缩写。对于所有格，完全不要用，非要表达类似意思，用of短语。对于引号，要尽力避免。
 
