@@ -614,5 +614,7 @@ Section~\ref{} concludes this paper.
 <a href="https://github.com/LooperXX">  <img src="pics/profile/Xiao Xu.png"  width="80" /></a>
 <a href="https://github.com/kokolerk">  <img src="pics/profile/jiaqi.png"  width="80" /></a> 
 <a href="https://github.com/yizhen20133868">  <img src="pics/profile/Libo Qin.png"  width="80" /></a> 
+<a href="https://github.com/HMJiangGatech">  <img src="pics/profile/HaomingJiang.png"  width="80" /></a> 
 <a href="https://github.com/jiaruonan">  <img src="pics/profile/JiaRuonan.png"  width="80" /></a> 
 <a href="https://github.com/Yutong-Zhou-cv">  <img src="pics/profile/YutongZhou.png"  width="80" /></a> 
+<a href="https://github.com/wangcongrobot">  <img src="pics/profile/CongWang.png"  width="80" /></a> 
