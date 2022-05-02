@@ -574,6 +574,8 @@ Section~\ref{} concludes this paper.
 
 ●   [如何让摘要吸引人？Nature论文摘要模板值得收藏](https://zhuanlan.zhihu.com/p/158574876)
 
+●   [一个Notation的重要参考](https://www.deeplearningbook.org/contents/notation.html)
+
 ●   [synercys/annotated_latex_equations：Examples of how to create colorful, annotated equations in Latex using Tikz.](https://github.com/synercys/annotated_latex_equations)
 
 ●   [acmi-lab/cmu-10717-the-art-of-the-paper: Official repository for CMU Machine Learning Department&#39;s 10717: &#34;The Art of the Paper&#34;. (github.com)](https://github.com/acmi-lab/cmu-10717-the-art-of-the-paper)
