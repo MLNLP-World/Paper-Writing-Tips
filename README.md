@@ -216,10 +216,15 @@ Section~\ref{} concludes this paper.
      E = m c^2 \nonumber
   \end{equation}
   ```
+#### 18. 中文标点符号
+- 注意中文标点符号，： ’ “ （）等看起来跟英文很像，但影响美观，请注意避免。使用masked language modeling (MLM), 避免使用masked language modeling （MLM）
+
+#### 19. 引用和其他文字之间的空格
+- 注意引用和其他文字之间有一个空格，例如 BERT (Devlin et al., 2019)，避免使用BERT(Devlin et al., 2019)
 
 ### 表格图片
 
-#### 18. 使用Booktabs绘制更好看的表格
+#### 1. 使用Booktabs绘制更好看的表格
 
 ![18](pics/18.jpeg)
 
@@ -265,23 +270,23 @@ Section~\ref{} concludes this paper.
   \end{table}
   ```
 
-#### 19. 章节、表格、图片的引用
+#### 2. 章节、表格、图片的引用
 
 -   章节、表格、图片使用\label{...}定义后，通过\ref{...}自动引用跳转。
 -   对子图或子表的引用可以使用Figure~\ref{fig:figure}(a)来表示。
 
-#### 20. 不要把图表中的Caption在正文中复述
+#### 3. 不要把图表中的Caption在正文中复述
 
 ![20](pics/20.jpeg)
 
 - 说明（Caption）是用来写“这个表格是什么”的。
 - 正文是用来写“这个表格说明了什么”的。
 
-#### 21. “三线表”建议：尽量不要画竖线（Attention）
+#### 4. “三线表”建议：尽量不要画竖线（Attention）
 
 ![22.jpg](pics/22.jpg)
 
-#### 22. 表格大小调整
+#### 5. 表格大小调整
 
 - 用 \centering 居中；用\small，\scriptsize，\footnotesize，\tiny 调整字号
 - 用\setlength{\tabcolsep}{8pt} 调整列间距
@@ -290,7 +295,7 @@ Section~\ref{} concludes this paper.
 
 ![23.jpg](pics/23.jpg)
 
-#### 23. 矢量图：图像应使用矢量图（如PDF格式）
+#### 6. 矢量图：图像应使用矢量图（如PDF格式）
 
 - 使用Adobe illustrator、OmniGraffle等软件绘制后存为矢量图
 - 使用Matplotlib绘制后存储: plt.savefig(‘draw.pdf’)
@@ -298,25 +303,25 @@ Section~\ref{} concludes this paper.
 
 ![24.jpg](pics/24.jpg)
 
-#### 24. 图片字体大小介于正文字体与caption之间
+#### 7. 图片字体大小介于正文字体与caption之间
 
 - 建议图中字体大小保持一致
 
 ![25.jpg](pics/25.jpg)
 
-#### 25. 论文中图片中文字说明字号应和正文文字大小相当
+#### 8. 论文中图片中文字说明字号应和正文文字大小相当
 
 - 图片中文字字号大小不宜太大
 
 ![new_25.jpg](pics/update1_pic_25.png)
 
-#### 26. 图表设计应适用于黑白打印
+#### 9. 图表设计应适用于黑白打印
 
 - 对黑白打印友好：不要以颜色作为指代图示中线条的唯一特征，可使用实线/虚线 ，亮/暗，不同线形等。
 
 ![26.jpg](pics/26.jpg)
 
-#### 27. 图片风格保持简洁美观
+#### 10. 图片风格保持简洁美观
 
 - 不要使用过多的颜色种类，避免过亮的颜色
 - 使用简洁的图示，尽量少用文字描述（例子除外）
@@ -327,7 +332,7 @@ Section~\ref{} concludes this paper.
 
 ### 选词用词
 
-#### 28. 注意连词符的词性
+#### 1. 注意连词符的词性
 
 * 一般连词符中，最后一个词是名词的，连起来是形容词词性；
 
@@ -337,14 +342,14 @@ Section~\ref{} concludes this paper.
 
 ![pic_29](pics/pic_29_2.jpeg)
 
-#### 29. 词性易错点
+#### 2. 词性易错点
 
 * **First**,  Secondly，均为副词
 * training， **test**，validation，均为名词 
 
 ![pic_30](pics/pic_30.jpeg)
 
-#### 30. 缩写符合使用习惯
+#### 3. 缩写符合使用习惯
 
 * 符合习惯，与提出者尽量一致CNN，LSTM，FEVER，ConceptNet，SQuAD，BiDAF，FEVER score，Wikipedia。
 * 初次出现时，全称在前，缩写在后；或缩写在前，用于注释的citation在后。graph attention network (GAT)，pre-trained language model (PLM)；BERT~\citep{BERT}。
@@ -352,27 +357,27 @@ Section~\ref{} concludes this paper.
 
 ![pic_31](pics/pic_31.jpeg)
 
-#### 31. 注意单复数
+#### 4. 注意单复数
 
 * 尤其是不规则单复数变化、不可数名词。
 
 ![pic_32](pics/pic_32.jpeg)
 
-#### 32. a/an 跟着元音音素走
+#### 5. a/an 跟着元音音素走
 
 ![pic_33](pics/pic_33.jpeg)
 
-#### 33. the的使用
+#### 6. the的使用
 
 * 注意：一般不会独立出现（不用冠词）可数名词单数，要么加the特指，要么加复数泛指。
 
 ![pic_34](pics/pic_34.jpeg)
 
-#### 34. 时态：以一般现在时为主（Attention）
+#### 7. 时态：以一般现在时为主（Attention）
 
 ![pic_35](pics/pic_35.jpeg)
 
-#### 35. 避免绝对化表述。
+#### 8. 避免绝对化表述。
 
 - 使用straightforward替换obvious
 - 使用generally、usually、often替换always
@@ -381,7 +386,7 @@ Section~\ref{} concludes this paper.
 
 ![36.jpg](pics/36.jpg)
 
-#### 36. 避免一些模糊的表述，比如：meaning, semantic, better等。
+#### 9. 避免一些模糊的表述，比如：meaning, semantic, better等。
 
 ![37.jpg](pics/37.jpg)
 
@@ -389,45 +394,45 @@ Section~\ref{} concludes this paper.
 
 ### 句子表述
 
-#### 37. 避免过多使用代词：it，they等，模型名缩写也不长，并且更清楚。
+#### 1. 避免过多使用代词：it，they等，模型名缩写也不长，并且更清楚。
 
 ![38.jpg](pics/38.jpg)
 
-#### 38. 避免过多贴标签，比如在谈论效果好时。
+#### 2. 避免过多贴标签，比如在谈论效果好时。
 
 提出的方法到底改善了哪里，是什么导致的这个结果？
 
 ![39.jpg](pics/39.jpg)
 
-#### 39. 一句话说一件事。尽量使用简单句，少使用长的复合句。
+#### 3. 一句话说一件事。尽量使用简单句，少使用长的复合句。
 
 ![40.jpg](pics/40.jpg)
 
-#### 40. 观察/发现？假设？方法？效果？不要混着说。
+#### 4. 观察/发现？假设？方法？效果？不要混着说。
 
 ![41.jpg](pics/41.jpg)
 
 ### 段落布局
 
-#### 41. 一行字数未超过1/4时，建议删除或者增加字数。（Attention）
+#### 5. 一行字数未超过1/4时，建议删除或者增加字数。（Attention）
 
 ![pic_42](pics/pic_42.png)
 
 ### 参考文献
 
-#### 42. 参考文献引用需要排查是否在句子中做成分
+#### 1. 参考文献引用需要排查是否在句子中做成分
 
 * 要点：引用使用\citep{}，作为插入语；或\citet{}，作为句子主要成分如主语、宾语等。
 
 ![pic_43](pics/pic_43.png)
 
-#### 43. 尽量引用发表的版本而非arXiv版本。
+#### 2. 尽量引用发表的版本而非arXiv版本。
 
 * 会显得正规一些
 
 ![pic_44](pics/pic_44.png)
 
-#### 44. 引用条目的格式尽量前后一致
+#### 3. 引用条目的格式尽量前后一致
 
 * 如会议名缩写、是否包含会议时间地点等是否所有的参考文献格式保持了一致
 
