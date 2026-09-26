@@ -26,6 +26,7 @@
 <div align="center">
 <p align="center">
   <a href="#项目动机">项目动机</a>/
+  <a href="#论文写作-skill">论文写作 Skill</a>/
   <a href="#写前必看">写前必看</a>/
   <a href="#%E7%BB%88%E7%A8%BF%E5%BF%85%E6%9F%A5%E6%8A%95%E7%A8%BF%E5%89%8D%E4%B8%80%E5%91%A8%E4%B8%80%E5%A4%A9">终稿必查</a>/
   <a href="#百家之言">百家之言</a>/
@@ -43,6 +44,7 @@
 >1. **写前必看**：包含一些常见的错误，每个错误均配有例子，可以在动手写论文之前快速浏览。
 >2. **终稿必查**：包含一些例子，方便快速定位是否自己的论文有错误。
 >3. **百家之言**：整理了一些网络上公开的写作资源（并不完全，欢迎补充），方便大家系统学习。
+>4. **论文写作 Skill**：将本项目的写作规范整理为可复用的 AI skill，辅助检查 LaTeX 排版、公式、图表、引用和学术表达。
 
 
 
@@ -58,6 +60,41 @@ Paper Writing Tips目前是一个正在进行的中项目，如有疏漏在所�
 ### 解释
 
 下文中，标注"Attention"的内容，是目前组织者认为有（较为）明显争议的建议条目。
+
+## <img src="./pics/icon/notes.png" width="25" />论文写作 Skill
+
+不想每次都手动对照下面的写作建议？本项目把这些规则整理成了 [`paper-writing`](paper-writing/SKILL.md) skill。安装后，你可以让 Claude Code 直接检查论文中的公式、LaTeX 排版、图表、英文表达和参考文献，也可以在投稿前做一次完整检查。
+
+### 1. 安装
+
+在当前仓库的根目录运行下面两条命令：
+
+```bash
+mkdir -p .claude/skills
+unzip paper-writing.skill -d .claude/skills
+```
+
+安装一次即可。完成后，重新打开 Claude Code。
+
+### 2. 检查单个文件
+
+例如，检查论文主文件 `main.tex`，只列出问题，不直接修改：
+
+```text
+/paper-writing 检查 @main.tex 的公式符号、引用和 LaTeX 排版，只报告问题，不修改文件。
+```
+
+其中，`@main.tex` 表示让 Claude Code 读取当前仓库中的 `main.tex`；如果你的文件名不同，替换成实际路径即可。
+
+### 3. 检查整篇论文
+
+如果论文文件都放在 `paper` 目录中，可以这样进行投稿前检查：
+
+```text
+/paper-writing 对 @paper/ 进行投稿前终检，重点检查匿名性、图片、表格、公式和参考文献。
+```
+
+具体检查规则见 [`paper-writing/SKILL.md`](paper-writing/SKILL.md)，规则中的示例图片位于 [`pics`](pics/) 目录；[`paper-writing.skill`](paper-writing.skill) 是可直接安装和分享的打包文件。
 
 ## <img src="./pics/icon/intro.png" width="25" />写前必看
 
